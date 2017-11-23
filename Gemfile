@@ -45,4 +45,3 @@ gem 'vcr', '~> 3.0', '>= 3.0.3'
 gem 'forecast_io'
 
 
-gem 'darksky'
